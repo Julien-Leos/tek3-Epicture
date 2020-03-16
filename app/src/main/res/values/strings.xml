@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="user_profile_picture">User Profile Picture</string>
+    <string name="user_name">User Name</string>
+    <string name="reputation">Reputation</string>
+    <string name="disconnect">Disconnect</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="like">like</string>
+    <string name="up">up</string>
+    <string name="image">image</string>
+</resources>
